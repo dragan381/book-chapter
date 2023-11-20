@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  background-image: radial-gradient(#cdd5c6, #fbf2ed);
+  color: #606b73;
+}
+
+body {
+  background-color: #e8d4c6;
+}
+
+blockquote {
+  border: thick double #b7bcbf;
+  color: #7a7a7a;
+  text-align: center;
+}
+
+blockquote:hover {
+  color: #606b73;
+}
+
+ol.list {
+  background: radial-gradient(#cdd5c6, #e8d4c6) left/300px no-repeat;
+}
+
+footer p cite {
+  background-color: #cdd5c6;
+  color: #606b73;
+  border: medium solid #b7bcbf;
+}
+
+#link {
+  text-decoration: none;
+}
+
+#link:link {
+  color: #bb0000;
+}
+
+#link:visited {
+  color: #4b7ccc;
+}
+
+#link:hover {
+  background-color: #b7bcbf;
+}
